@@ -4,6 +4,7 @@
 | Website URL  | https://automationexercise.com/      |                                                                                                                 |          |
 | OS Version   | Windows 11 Pro                       |                                                                                                                 |          |
 |              |                                      |                                                                                                                 |          |
+|              |                                      |                                                                                                                 |          |
 | Test Case ID |                 Epic                 |                                                     Stories                                                     | Priority |
 | TS_001       |                Sign-up               | As a   user, I want to signup using valid email so that i can create an account                                 |  Medium  |
 | TS_002       |                Sign-up               | As a   user, I want to signup using valid date of birth so that i can create an   account                       |  Medium  |
