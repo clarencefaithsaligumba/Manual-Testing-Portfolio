@@ -9,3 +9,19 @@
 | AT-002       | Booking -> No error message display when user leaves empty the origin and destination fields                                | 1. Open the flight booking page https://travel.agileway.net/login<br>2. Select ""Return"" as the trip type.<br>3. Select an origin (e.g., New York) and a destination (e.g., Sydney). <br>4. Set the Departing date to a past year, such as 04 June 2016. <br>5. Select a flight time and click the ""Continue"" button.<br> | User should receive a error message when the departure date is set in the past                           | User allows to continue to the next page even if the departure date is set in the past                                         | Ready to Test | High     |
 | AT-003       | Payment -> User allows to continue the payment successfully even if the user set the card type and card number fields empty | 1. Navigate through the flight booking process to the Pay by Credit Card section.<br>2. Leave the ""Card type"" radio buttons (Visa/Master) unselected.<br>3. Leave the ""Card number"" field completely empty. <br>4. Click the ""Pay now"" button.<br>                                                                     | User receive an error message indicates that the card type and card number fields leave completely empty | User allows to continue the transaction despite leaving card type and card number fields empty                                 | Ready to Test | Medium   |
 | AT-004       | Booking -> No error message display when user leaves empty the origin and destination fields                                | 1. Open the flight booking page https://travel.agileway.net/login<br>2. Ensure the From dropdown is set to the default ""Origin"".<br>3. Ensure the To dropdown is set to the default ""Destination"".<br>4. Click the Continue button.<br>                                                                                  | User should receive an error message when leaving the origin and destination fields empty                | User allows to continue to the next page without any error message when leaving the origin and destination fields empty        | Ready to Test | Low      |
+
+Bug ID: AE-001 
+
+![Bug AE-001](https://github.com/clarencefaithsaligumba/Manual-Testing-Projects/blob/b9c16290d233cdb56095e43fdce8bac9ea9fe73a/Project_02%20-%20Agile%20Travel/Bug%20Report/AT-001.png)
+
+Bug ID: AE-002
+
+![Bug AE-002](https://github.com/clarencefaithsaligumba/Manual-Testing-Projects/blob/b9c16290d233cdb56095e43fdce8bac9ea9fe73a/Project_02%20-%20Agile%20Travel/Bug%20Report/AT-002.png)
+
+Bug ID: AE-003
+
+![Bug AE-003](https://github.com/clarencefaithsaligumba/Manual-Testing-Projects/blob/b9c16290d233cdb56095e43fdce8bac9ea9fe73a/Project_02%20-%20Agile%20Travel/Bug%20Report/AT-003.png)
+
+Bug ID: AE-004
+
+![Bug AE-004](https://github.com/clarencefaithsaligumba/Manual-Testing-Projects/blob/b9c16290d233cdb56095e43fdce8bac9ea9fe73a/Project_02%20-%20Agile%20Travel/Bug%20Report/AT-004.png)
