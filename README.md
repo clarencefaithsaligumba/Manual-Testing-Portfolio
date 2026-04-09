@@ -43,14 +43,4 @@ A comprehensive collection of manual testing documentation, bug reports, and tes
 
 ---
 
-## 📁 Repository Structure
 
-```text
-├── Agile-Travel-Project/
-│   ├── Test-Cases/
-│   ├── Bug-Reports/
-│   └── Screenshots/
-├── Automation-Exercise-Project/
-│   ├── Test-Plan/
-│   └── Execution-Results/
-└── README.md
